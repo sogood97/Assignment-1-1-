@@ -9,11 +9,10 @@ RUN echo "Made by Kyung Soo"
 RUN mkdir /ks417
 
 # 5. Define working directory
-WORKDIR /own
+WORKDIR /bin
 
 # 4. Adding files
-ADD own/.ksks /own/.ksks/
-
+ADD bin/.ks /bin.ks
 
 
 # 6. Where is the portal?
