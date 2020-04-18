@@ -9,7 +9,7 @@ RUN echo "Made by Kyung Soo"
 RUN mkdir /ks417
 
 # 4. Adding files
-ADD own/.ksks/own/.ksks
+ADD own/.ksks /own/.ksks
 
 # 5. Define working directory
 WORKDIR /own
