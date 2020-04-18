@@ -8,11 +8,13 @@ Maintainer LeeKyungSoo "soogood97@khu.ac.kr"
 RUN echo "Made by Kyung Soo"
 RUN mkdir /ks417
 
+# 5. Define working directory
+WORKDIR /own
+
 # 4. Adding files
 ADD own/.ksks /own/.ksks/
 
-# 5. Define working directory
-WORKDIR /own
+
 
 # 6. Where is the portal?
 EXPOSE 80
