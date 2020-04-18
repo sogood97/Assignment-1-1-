@@ -5,10 +5,13 @@ For data center programming assignment #1
 Third practice - Java script!
 
 If you wanna pull image from this dockerfile
+
 You have to get 3files('.dockerignore', 'pakage.json', 'server.js')
+
+This dockerfile is made to study about Java Script.
 
 Docker image : node
 
-Reference : 
+# Reference
 maintainer=Dr.Sungwon "drsungwon@khu.ac.kr"
 This file is used to educate by him, in "Kyung Hee" Univ
