@@ -8,15 +8,11 @@ Maintainer LeeKyungSoo "soogood97@khu.ac.kr"
 RUN echo "Made by Kyung Soo"
 RUN mkdir /ks417
 
-# 5. Define working directory
+# 4. Define working directory
 WORKDIR /ks417
 
-# 4. Adding files
+# 5. Adding files
 ADD /line /ks417 
 
-
-# 6. Where is the portal?
-EXPOSE 80
-
-# 7. Check CMD
+# 6. Check CMD
 CMD ["bash"]
