@@ -19,7 +19,7 @@ Maintainer LeeKyungSoo "soogood97@khu.ac.kr"
 -> maintainer를 표시하는 자리이며, 저는 교수님이 하던 방식으로 만들었습니다.
 
 
-# 3. make directory, echo, 
+# 3. make directory, echo.
 RUN echo "Made by Kyung Soo"
 RUN mkdir /ks417
 
