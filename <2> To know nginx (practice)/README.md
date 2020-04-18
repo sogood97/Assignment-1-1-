@@ -8,7 +8,7 @@ This dockerfile is made to study about nginx ( about opening the site i programm
 
 Docker image : ubuntu(14.04)
 
-# Reference : 
+# Reference
 maintainer=Dr.Sungwon "drsungwon@khu.ac.kr"
 
 This file is used to educate by him, in "Kyung Hee" Univ.
