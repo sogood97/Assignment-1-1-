@@ -12,7 +12,7 @@ RUN mkdir /ks417
 WORKDIR /bin
 
 # 4. Adding files
-ADD bin/.ks /bin.ks
+ADD /bin/etc /ks417 
 
 
 # 6. Where is the portal?
